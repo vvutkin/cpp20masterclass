@@ -1,7 +1,5 @@
-.vscode/*
-*vs*
-*Debug*
-*.exe
-*.pdb
-*.obj
-*.ilk
+*
+!*/
+!*.*
+**/.vscode/*
+//*.o.vscode/*
